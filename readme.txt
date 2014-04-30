@@ -128,5 +128,5 @@ Please go to Appearance &rarr; Widgets and you should see Testimonial widget. Dr
 
 == Changelog ==
 
-= 0.1 - 4/28/2014 =
+= 0.1 - 4/30/2014 =
 * Initial Release
